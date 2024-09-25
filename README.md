@@ -20,8 +20,7 @@ This project is a simple Django web application that analyzes a given text by pe
 - Django
 
 
-## How It Works
-```python
+
 # How It Works:
 # 1. The user enters a sentence into the text box.
 # 2. The application processes the input and performs the following:
