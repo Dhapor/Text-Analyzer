@@ -30,3 +30,7 @@ This project is a simple Django web application that analyzes a given text by pe
 - 3. The results are displayed back to the user.
 
 
+# Future Improvements:
+- 1. Add functionality to count special characters and numbers.
+- 2. Implement word count and sentence analysis for deeper insights.
+- 3. Provide graphical representations (charts/graphs) for the text analysis to give more detailed feedback.
